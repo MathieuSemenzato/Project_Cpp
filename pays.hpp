@@ -17,9 +17,9 @@ class Pays:public Carte, public FcAtt, public FcDef, public FcGoal{
         bool operator==(const Carte& carte) const;
         std::string getNom() const {return this->_nom;};
         void affichage() const;
-        int getAttaque() const{return 0;};
-        int getDefense() const{return 0;};
-        int getGoal() const{return 0;};
+        int getAttaque() const{return this->_attaque;};
+        int getDefense() const{return this->_defense;};
+        int getGoal() const{return this->_goal;};
         int getCharisme() const {return this->_charisme;};
     private:
         int _charisme;
