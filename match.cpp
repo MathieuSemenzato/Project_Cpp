@@ -46,3 +46,5 @@ Deck* Match::getDeck(int indice){
         return this->_lDeck.front();
     }
 }
+
+//check

@@ -20,3 +20,5 @@ class Attaquant:public Sportif, public FcAtt{
         int getCharisme() const {return 0;};
         void affichage() const;
 };
+
+//check

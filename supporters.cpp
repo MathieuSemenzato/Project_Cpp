@@ -15,3 +15,5 @@ bool Supporters::operator== (const Carte& carte) const{
 void Supporters::affichage() const{
     std::cout<<"Type : SUPPORTERS\t Nom : "<<this->_nom<<"\t Attaque : "<<std::to_string(this->_attaque)<<"\t Rareté : "<<std::to_string(this->_rarete)<<std::endl;
 }
+
+//check

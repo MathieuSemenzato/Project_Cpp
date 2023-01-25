@@ -22,3 +22,5 @@ class Booster:public Carte{
     protected:
         int _rarete;
 };
+
+//check

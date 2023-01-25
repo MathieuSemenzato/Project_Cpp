@@ -17,3 +17,5 @@ bool Pays::operator== (const Carte& carte) const{
 void Pays::affichage() const{
     std::cout<<"Type : PAYS\t Nom : "<<this->_nom<<"\t Charisme : "<<std::to_string(this->_charisme)<<"\t Attaque : "<<std::to_string(this->_attaque)<<"\t Défense : "<<std::to_string(this->_defense)<<"\t Goal : "<<std::to_string(this->_goal)<<std::endl;
 }
+
+//check

@@ -14,3 +14,5 @@ void Sportif::affichage() const{
     std::cout<<"|"<<std::endl;
     std::cout<<"\\-----------------------------/\n"<<std::endl;
 }
+
+//check

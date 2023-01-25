@@ -20,3 +20,5 @@ class Coach:public Booster, public FcDef{
         int getCharisme() const {return 0;};
         void affichage() const;
 };
+
+//check

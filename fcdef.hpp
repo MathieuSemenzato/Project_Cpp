@@ -11,3 +11,5 @@ class FcDef{
     protected:
         int _defense;
 };
+
+//check

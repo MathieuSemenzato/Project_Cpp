@@ -34,3 +34,5 @@ class Deck{
 		int _total_goal;
 		int _total_charisme;
 };
+
+//check

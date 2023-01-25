@@ -127,3 +127,5 @@ void Joueur::affichage() const{
         i++;
     }
 }
+
+//check

@@ -15,3 +15,5 @@ bool Coach::operator== (const Carte& carte) const{
 void Coach::affichage() const{
     std::cout<<"Type : COACH\t Nom : "<<this->_nom<<"\t Défense : "<<std::to_string(this->_defense)<<"\t Rareté : "<<std::to_string(this->_rarete)<<std::endl;
 }
+
+//check

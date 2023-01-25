@@ -41,3 +41,5 @@ void Deck::affichage() const{
         ptCarte->affichage();
     }
 }
+
+//check

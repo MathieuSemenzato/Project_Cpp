@@ -20,3 +20,5 @@ class Sponsors:public Booster, public FcGoal{
         int getGoal() const{return this->_goal*this->_rarete;};
         int getCharisme() const {return 0;};
 };
+
+//check

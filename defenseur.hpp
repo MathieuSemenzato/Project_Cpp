@@ -20,3 +20,5 @@ class Defenseur:public Sportif, public FcDef{
         int getGoal() const{return 0;};
         int getCharisme() const {return 0;};
 };
+
+//check

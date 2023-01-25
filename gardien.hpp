@@ -20,3 +20,5 @@ class Gardien:public Sportif, public FcGoal{
         int getGoal() const{return this->_goal;};
         int getCharisme() const {return 0;};
 };
+
+//check

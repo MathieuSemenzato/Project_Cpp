@@ -15,3 +15,5 @@ bool Defenseur::operator== (const Carte& carte) const{
 void Defenseur::affichage() const{
     std::cout<<"Type : DEFENSEUR\t Nom : "<<this->_nom<<" ("<<this->_nationalite<<")\t Défense : "<<std::to_string(this->_defense)<<std::endl;
 }
+
+//check

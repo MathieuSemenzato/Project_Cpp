@@ -11,3 +11,5 @@ class FcAtt{
     protected:
         int _attaque;
 };
+
+//check

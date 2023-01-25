@@ -15,3 +15,5 @@ bool Gardien::operator== (const Carte& carte) const{
 void Gardien::affichage() const{
     std::cout<<"Type : GARDIEN\t Nom : "<<this->_nom<<" ("<<this->_nationalite<<")\t Goal : "<<std::to_string(this->_goal)<<std::endl;
 }
+
+//check

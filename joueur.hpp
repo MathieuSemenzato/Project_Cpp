@@ -23,3 +23,5 @@ class Joueur{
 		std::vector<Carte*> _lCartes;
 		std::list<Deck*> _lDeck;
 };
+
+//check

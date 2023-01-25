@@ -27,3 +27,5 @@ class Carte{
         std::string _nom;
         Type _typeCarte;
 };
+
+//check

@@ -574,7 +574,5 @@ int main(){
 		std::cin>>jouer;
 		system("clear");
 	}
-
-	//liCollection.clear();
 	return 0;
 }

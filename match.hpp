@@ -19,3 +19,5 @@ class Match{
 		std::list<Deck*> _lDeck;
 		std::unordered_map<Deck*, int> _resultat;
 };
+
+//check

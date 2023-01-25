@@ -24,3 +24,5 @@ class Pays:public Carte, public FcAtt, public FcDef, public FcGoal{
     private:
         int _charisme;
 };
+
+//check

@@ -38,3 +38,5 @@ void Tableau::affichage(int phase){
 void Tableau::affichage(std::string Nom){
     std::cout<<"[1]\t"<<(this->_match1.getDeck(0))->getNom()<<"\t----"<<"\n\t\t\t   |   "<<"\n\t\t\t   ----\t"<<(this->_matchFIN.getDeck(0))->getNom()<<"\t----"<<"\n\t\t\t   |   \t     \t\t   |"<<"\n[2]\t"<<(this->_match1.getDeck(1))->getNom()<<"\t----   \t     \t\t   |"<<"\n\t\t\t\t\t\t   |"<<"\n\t\t\t\t\t\t   ----\t"<<Nom<<"\n\t\t\t\t\t\t   |"<<"\n[3]\t"<<(this->_match2.getDeck(0))->getNom()<<"\t----   \t     \t\t   |"<<"\n\t\t\t   |   \t     \t\t   |"<<"\n\t\t\t   ----\t"<<(this->_matchFIN.getDeck(1))->getNom()<<"\t----"<<"\n\t\t\t   |   "<<"\n[4]\t"<<(this->_match2.getDeck(1))->getNom()<<"\t----\n"<<std::endl;
 }
+
+//check

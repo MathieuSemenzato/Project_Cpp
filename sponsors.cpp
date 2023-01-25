@@ -15,3 +15,5 @@ bool Sponsors::operator== (const Carte& carte) const{
 void Sponsors::affichage() const{
     std::cout<<"Type : SPONSORS\t Nom : "<<this->_nom<<"\t Goal : "<<std::to_string(this->_goal)<<"\t Rareté : "<<std::to_string(this->_rarete)<<std::endl;
 }
+
+//check
